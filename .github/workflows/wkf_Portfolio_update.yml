@@ -25,3 +25,4 @@ jobs:
         server: portfolio.jcramos.org
         username: jcramos._u4hvotbtxsm
         password: ${{ secrets.ramosj_ftp }}
+        server-dir: ./portfolio.jcramos.org/
