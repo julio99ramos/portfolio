@@ -24,4 +24,4 @@ jobs:
       with:
         server: portfolio.jcramos.org
         username: jcramos._u4hvotbtxsm
-        password: ${{ secrets.portfolio_ftp }}
+        password: ${{ secrets.ramosj_ftp }}
