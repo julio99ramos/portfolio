@@ -23,6 +23,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: portfolio.jcramos.org
-        username: jcramos._u4hvotbtxsm
-        password: ${{ secrets.ramosj_ftp }}
-        server-dir: ./portfolio.jcramos.org/
+        username: jcramos._portfolio
+        password: ${{ secrets.portfolio_ftp }}
+        
